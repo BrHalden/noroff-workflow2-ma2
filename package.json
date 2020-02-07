@@ -1,0 +1,9 @@
+{
+  "name": "nuxt-proj",
+  "version": "1.0.0",
+  "description": "MA 2 Project",
+  "main": "index.js",
+  "repository": "https://github.com/BrHalden/noroff-workflow2-ma2.git",
+  "author": "Kristoffer B. Halden",
+  "license": "MIT"
+}
