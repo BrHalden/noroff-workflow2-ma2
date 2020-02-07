@@ -1,9 +1,12 @@
 {
-  "name": "nuxt-proj",
+  "name": "wf2ma2",
   "version": "1.0.0",
-  "description": "MA 2 Project",
+  "description": "Workflow 2 Module assignment 2",
   "main": "index.js",
   "repository": "https://github.com/BrHalden/noroff-workflow2-ma2.git",
-  "author": "Kristoffer B. Halden",
-  "license": "MIT"
+  "author": "Kristoffer B. Halden <kris-b.h@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
