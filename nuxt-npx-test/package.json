@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-npx-test",
+  "version": "1.0.0",
+  "description": "My tiptop Nuxt.js project",
+  "author": "Kristoffer B. Halden",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
