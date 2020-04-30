@@ -7,6 +7,6 @@
   "author": "Kristoffer B. Halden <kris-b.h@hotmail.com>",
   "license": "MIT",
   "dependencies": {
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
